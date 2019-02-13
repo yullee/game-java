@@ -1,0 +1,9 @@
+.root {
+	-fx-font-family: "Super Plumber Brothers";
+    -fx-background-image: url("images/background.png");
+}
+
+.score {
+    -fx-fill: white ;
+    -fx-font-family: "Super Plumber Brothers";
+}
